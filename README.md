@@ -25,7 +25,7 @@
    `"homepage": "https://<your-username>.github.io/"`
 
    Example:
-   "homepage": "https://niranjan.github.io/"
+   "homepage": "https://kniranjan0.github.io/"
 
 5. Build and deploy your project:
    `npm run deploy`
