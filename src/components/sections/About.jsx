@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import user from '../../assets/user.png'
 import { aboutTabs } from '../../static';
 
@@ -29,7 +29,7 @@ const About = () => {
           </div>
           <div className="about-col-2">
             <h2 className="sub-title">About Me</h2>
-            <p>
+            <p className='about-text'>
               Full Stack Developer with 3+ years of experience building innovative, efficient web
               applications across front-end and back-end. Passionate about modern frameworks,
               scalable architectures, and delivering high-quality solutions that drive impact.

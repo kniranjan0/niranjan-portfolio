@@ -121,6 +121,19 @@ export const aboutTabs = [
     ],
   },
   {
+    id: "achievements",
+    label: "Achievements",
+    items: [
+      {
+        period: "Jan 2023 – Nov 2024",
+        title: "Shining Star Award, InspironLabs ",
+        organization: "InspironLabs",
+        location: "Bangalore, Karnataka",
+        highlights: ['Recognized with the prestigious Shining Star - Employee of the Year award, highlighting exceptional commitment to value delivery.'],
+      }
+    ],
+  },
+  {
     id: "education",
     label: "Education",
     items: [
@@ -138,19 +151,6 @@ export const aboutTabs = [
         location: "Patna",
         highlights: ["CGPA: 7.70"],
       },
-    ],
-  },
-  {
-    id: "achievements",
-    label: "Achievements",
-    items: [
-      {
-        period: "Jan 2023 – Nov 2024",
-        title: "Shining Star Award, InspironLabs ",
-        organization: "InspironLabs",
-        location: "Bangalore, Karnataka",
-        highlights: ['Recognized with the prestigious Shining Star - Employee of the Year award, highlighting exceptional commitment to value delivery.'],
-      }
     ],
   },
 ];
