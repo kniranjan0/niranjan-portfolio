@@ -160,6 +160,18 @@ export const aboutTabs = [
 export const recommendations = [
   {
     id: 1,
+    name: "Manoj Kumar Nishad",
+    title:
+      "Senior Frontend Developer – React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS",
+    relationship: "Worked together on the same team",
+    date: "November 18, 2026",
+    content: `I worked with Niranjan Kumar on the DYP project, where he contributed effectively as a frontend developer. He successfully handled critical tasks and delivered high-quality solutions with strong attention to detail.
+      Niranjan demonstrates solid technical skills, a professional work ethic, and a clear understanding of frontend development. He is reliable, efficient, and a valuable team member. I would confidently recommend him for frontend development roles.`,
+    avatar: "MN",
+    color: "#2f4fceff",
+  },
+  {
+    id: 2,
     name: "Madhav Sharma",
     title:
       "Serving Notice Period | Lead Django Developer at Inspironlabs | Backend Development with Python | Scalable APIs & Database Optimization | AWS | PostgreSQL | ETL | Ex-Markytic",
@@ -171,7 +183,7 @@ export const recommendations = [
     color: "#ff6b6b",
   },
   {
-    id: 2,
+    id: 3,
     name: "Animesh Ghoroi",
     title:
       "Software Engineer @ InspironLabs Front-end Developer | React.js, Next.js, JavaScript, TypeScript, React Native, HTML, CSS, Redux | 2+ Yrs",
@@ -181,17 +193,5 @@ export const recommendations = [
       "Having worked with Niranjan on the same team at InspironLabs, I was consistently impressed by his strong technical expertise and thoughtful approach to problem-solving. He takes real ownership of his work, communicates clearly, and contributes practical, well-considered solutions. His ability to stay composed under tight deadlines and collaborate effectively had a meaningful impact on our projects. He would be a great fit for any team that values quality, accountability, and collaboration.",
     avatar: "AG",
     color: "#45b7d1",
-  },
-  {
-    id: 3,
-    name: "Manoj Kumar Nishad",
-    title:
-      "Senior Frontend Developer – React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS",
-    relationship: "Worked together on the same team",
-    date: "November 8, 2025",
-    content:
-      "I had the pleasure of working with Niranjan Kumar, a dedicated and talented frontend developer. He is passionate about creating innovative solutions and consistently delivers high-quality work. A great team player and a true asset to any project.",
-    avatar: "MN",
-    color: "#4ecdc4",
   },
 ];
