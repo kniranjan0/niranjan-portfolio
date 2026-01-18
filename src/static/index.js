@@ -83,9 +83,9 @@ export const skillsGrouped = [
     label: "Mobile",
     items: [
       { name: "React Native", level: "Advanced" },
-      { name: 'Expo', level: 'Advanced'},
-      { name: 'GlueStack', level: 'Intermediate'},
-      { name: "Native Base", level: "Intermediate"},
+      { name: "Expo", level: "Advanced" },
+      { name: "GlueStack", level: "Intermediate" },
+      { name: "Native Base", level: "Intermediate" },
     ],
   },
   {
@@ -129,8 +129,10 @@ export const aboutTabs = [
         title: "Shining Star Award, InspironLabs ",
         organization: "InspironLabs",
         location: "Bangalore, Karnataka",
-        highlights: ['Recognized with the prestigious Shining Star - Employee of the Year award, highlighting exceptional commitment to value delivery.'],
-      }
+        highlights: [
+          "Recognized with the prestigious Shining Star - Employee of the Year award, highlighting exceptional commitment to value delivery.",
+        ],
+      },
     ],
   },
   {
@@ -158,32 +160,38 @@ export const aboutTabs = [
 export const recommendations = [
   {
     id: 1,
-    name: "Sonu Shettiyar",
-    title: "Brand Evangelist @ Masai | Building Price Perfect AI | Ex-Accelgrowth",
-    relationship: "Studied together at Masai School",
-    date: "November 8, 2025",
-    content: "Niranjan always stood out as one of the sharpest minds in the room. His problem-solving skills and coding abilities are exceptional, and he consistently delivered elegant solutions that impressed everyone. What truly sets him apart is his curiosity, drive for improvement, and refusal to settle for average. His level of maturity and technical depth at a young age is inspiring. Any team would be fortunate to have someone with his talent, focus, and positive attitude.",
-    avatar: "SS",
-    color: "#ff6b6b"
+    name: "Madhav Sharma",
+    title:
+      "Serving Notice Period | Lead Django Developer at Inspironlabs | Backend Development with Python | Scalable APIs & Database Optimization | AWS | PostgreSQL | ETL | Ex-Markytic",
+    relationship: "Worked together on the same team",
+    date: "January 15, 2026",
+    content:
+      "Working with Niranjan has been an amazing experience. His enthusiasm and strong problem-solving attitude consistently stood out throughout our collaboration. He possesses solid frontend development skills and complements them with an exceptional command of Git version control, ensuring clean workflows and efficient collaboration. Niranjan is a dependable, proactive, and impactful team member.",
+    avatar: "MS",
+    color: "#ff6b6b",
   },
   {
     id: 2,
-    name: "Manoj Kumar Nishad",
-    title: "Senior Frontend Developer – React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS",
+    name: "Animesh Ghoroi",
+    title:
+      "Software Engineer @ InspironLabs Front-end Developer | React.js, Next.js, JavaScript, TypeScript, React Native, HTML, CSS, Redux | 2+ Yrs",
     relationship: "Worked together on the same team",
-    date: "November 8, 2025",
-    content: "I had the pleasure of working with Niranjan Kumar, a dedicated and talented frontend developer. He is passionate about creating innovative solutions and consistently delivers high-quality work. A great team player and a true asset to any project.",
-    avatar: "MN",
-    color: "#4ecdc4"
+    date: "January 17, 2026",
+    content:
+      "Having worked with Niranjan on the same team at InspironLabs, I was consistently impressed by his strong technical expertise and thoughtful approach to problem-solving. He takes real ownership of his work, communicates clearly, and contributes practical, well-considered solutions. His ability to stay composed under tight deadlines and collaborate effectively had a meaningful impact on our projects. He would be a great fit for any team that values quality, accountability, and collaboration.",
+    avatar: "AG",
+    color: "#45b7d1",
   },
   {
     id: 3,
-    name: "Sagar Eknath Bangade",
-    title: "Software Engineer @ InspironLabs | GenAI | MERN | Java Spring Boot | React Native",
-    relationship: "Reported directly to Niranjan",
-    date: "November 7, 2025",
-    content: "Working closely with Niranjan was a great experience. He is one of the most reliable and composed people I've worked with. Always focused, quick to help, and never afraid to tackle tough problems. A solid teammate and a great person to have on any project.",
-    avatar: "SB",
-    color: "#45b7d1"
-  }
+    name: "Manoj Kumar Nishad",
+    title:
+      "Senior Frontend Developer – React.js, Next.js, TypeScript, Redux Toolkit, Tailwind CSS",
+    relationship: "Worked together on the same team",
+    date: "November 8, 2025",
+    content:
+      "I had the pleasure of working with Niranjan Kumar, a dedicated and talented frontend developer. He is passionate about creating innovative solutions and consistently delivers high-quality work. A great team player and a true asset to any project.",
+    avatar: "MN",
+    color: "#4ecdc4",
+  },
 ];
